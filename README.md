@@ -57,9 +57,9 @@ WHEN I deploy to Heroku<br/>
 THEN I should have proper build scripts for a webpack application<br/>
 
 ## Demonstration 
-Below is a GIF that demonstrates the start of the application.
+Below is a screenshot of the application.
 
-![GIF-of-SEEDING-SERVER](./assets/)
+![Screenshot](./assets/JATE-Screenshot.PNG)
 
 ## Licenses
      To view the MIT license. Click the license button above.
